@@ -1,4 +1,4 @@
-# Exam Scheduling Analysis
+# GRE_Reg_Data Exam Scheduling Analysis
 
 This repository contains scripts and analysis performed on a dataset of candidates scheduled to take exams. The analysis includes identifying peak hours for exams, visualizing exam schedules during the day and night, and categorizing candidates by age groups.
 
