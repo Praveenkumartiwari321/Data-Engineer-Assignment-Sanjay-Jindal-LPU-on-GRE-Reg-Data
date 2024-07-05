@@ -15,7 +15,7 @@ This repository contains scripts and analysis performed on a dataset of candidat
 
 ## Introduction
 
-This project aims to analyze a dataset containing information about candidates scheduled to take exams. The analysis includes identifying peak hours for exams, visualizing the distribution of exams between day and night, and categorizing candidates into various age groups.
+This project aims to analyze a dataset that containing information about candidates scheduled to take exams. The analysis includes various identifying peak hours for exams, visualizing the distribution of exams between day and night, and categorizing candidates into various age groups.
 
 ### Task 1: Identify the Hour with the Highest Frequency of Scheduled Exams
 We identify the hour with the highest frequency of candidates scheduled for exams and visualize the frequencies using a bar plot.
